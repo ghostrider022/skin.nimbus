@@ -1146,7 +1146,7 @@
 							<ondown>SetFocus(9000,0,absolute)</ondown>
 							<onright>2000</onright>
 							<onback>9000</onback>
-							<align>left</align>
+							<align>right</align>
 							<include content="IconButton">
 								<param name="control_id" value="801" />
 								<param name="onclick" value="$VAR[HomePowerButtonActionVar]" />
