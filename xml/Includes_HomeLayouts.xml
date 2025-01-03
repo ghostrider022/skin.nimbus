@@ -318,8 +318,8 @@
 				<control type="image">
 					<left>20</left>
 					<top>11</top>
-					<width>200</width>
-					<height>300</height>
+					<width>269</width>
+					<height>393</height>
 					<texture colordiffuse="$VAR[FocusColorTheme]">masks/poster.png</texture>
 					<visible>[[$PARAM[focused] + Control.HasFocus($PARAM[list_id])] + !Player.HasMedia + String.IsEmpty(Skin.String(TrailerPlaying))] | [[$PARAM[focused] + [Control.IsVisible(54) | Control.IsVisible(500)]] + !Player.HasMedia + String.IsEmpty(Skin.String(TrailerPlaying))]</visible>
 					<visible>!Container($PARAM[list_id]).IsUpdating</visible>
