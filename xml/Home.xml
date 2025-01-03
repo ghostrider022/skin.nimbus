@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
-	<defaultcontrol>9000</defaultcontrol>
+	<defaultcontrol>19011</defaultcontrol>
 	<backgroundcolor>background</backgroundcolor>
 	<include>NimbusSkinStringsInitialization</include>
 	<controls>
@@ -1018,7 +1018,7 @@
 					<control type="fixedlist" id="9000">
 						<left>25</left>
 						<top>215</top>
-            <width>825</width>
+            <width>8.25</width>
 						<height>605</height>
 						<movement>7</movement>
 						<focusposition>0</focusposition>
@@ -1140,7 +1140,7 @@
 						<control type="grouplist" id="700">
 							<orientation>horizontal</orientation>
 							<itemgap>-19</itemgap>
-							<width>343</width>
+							<width>3.43</width>
 							<height>100</height>
 							<onup>SetFocus(9000,99,absolute)</onup>
 							<ondown>SetFocus(9000,0,absolute)</ondown>
