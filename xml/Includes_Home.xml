@@ -93,7 +93,7 @@
 					<control type="group">
 						<left>33</left>
 						<top>15</top>
-						<include content="FlixWidgetMovieLayout">
+						<include content="FlixMovieLayout">
 							<param name="list_id" value="$PARAM[list_id]" />
 						</include>
 					</control>
@@ -103,7 +103,7 @@
 						<depth>DepthContentPopout</depth>
 						<left>33</left>
 						<top>15</top>
-						<include content="FlixWidgetMovieLayout">
+						<include content="FlixMovieLayout">
 							<param name="focused" value="true" />
 							<param name="list_id" value="$PARAM[list_id]" />
 						</include>
