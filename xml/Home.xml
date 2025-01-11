@@ -183,7 +183,7 @@
 						 
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,2)">Conditional</animation>
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,3)">Conditional</animation>
-						<animation effect="slide" end="0,-90" time="200" condition="Integer.IsGreater(Container(19001).Position,4)">Conditional</animation>
+						<animation effect="slide" end="0,-60" time="200" condition="Integer.IsGreater(Container(19001).Position,4)">Conditional</animation>
 						<!--<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,4)">Conditional</animation>
 						<animation effect="slide" end="0,0" time="200" condition="Integer.IsGreater(Container(19001).Position,5)">Conditional</animation>
 						<animation effect="slide" end="0,30" time="200" condition="Integer.IsGreater(Container(19001).Position,7)">Conditional</animation>
