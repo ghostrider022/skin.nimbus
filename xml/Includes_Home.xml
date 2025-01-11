@@ -89,7 +89,7 @@
 				<include content="WidgetListCommon">
 					<param name="list_id" value="$PARAM[list_id]"/>
 				</include>
-				<itemlayout width="230.5" height="393" >
+				<itemlayout width="300" height="423" >
 					<control type="group">
 						<left>33</left>
 						<top>15</top>
@@ -98,7 +98,7 @@
 						</include>
 					</control>
 				</itemlayout>
-				<focusedlayout width="230.5" height="393" infoupdate="30">
+				<focusedlayout width="300" height="423" infoupdate="30">
 					<control type="group">
 						<depth>DepthContentPopout</depth>
 						<left>33</left>
