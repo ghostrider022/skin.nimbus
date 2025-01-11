@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
-	<defaultcontrol>9000</defaultcontrol>
+	<defaultcontrol>19011</defaultcontrol>
 	<backgroundcolor>background</backgroundcolor>
 	<include>NimbusSkinStringsInitialization</include>
 	<controls>
@@ -184,8 +184,8 @@
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,2)">Conditional</animation>
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,3)">Conditional</animation>
 						<animation effect="slide" end="0,0" time="200" condition="Integer.IsGreater(Container(19001).Position,4)">Conditional</animation>
-						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,4)">Conditional</animation>
-						<animation effect="slide" end="0,0" time="200" condition="Integer.IsGreater(Container(19001).Position,5)">Conditional</animation>
+						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,5)">Conditional</animation>
+						<animation effect="slide" end="0,0" time="200" condition="Integer.IsGreater(Container(19001).Position,6)">Conditional</animation>
 						<animation effect="slide" end="0,30" time="200" condition="Integer.IsGreater(Container(19001).Position,7)">Conditional</animation>
 						<animation effect="slide" end="0,60" time="200" condition="Integer.IsGreater(Container(19001).Position,8)">Conditional</animation>
 						<animation effect="slide" end="0,90" time="200" condition="Integer.IsGreater(Container(19001).Position,9)">Conditional</animation>
