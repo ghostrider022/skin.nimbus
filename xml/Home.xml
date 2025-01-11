@@ -191,7 +191,7 @@
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,9)">Conditional</animation>
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,10)">Conditional</animation>
 						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,11)">Conditional</animation>
-						<animation effect="slide" end="0,1-120" time="200" condition="Integer.IsGreater(Container(19001).Position,12)">Conditional</animation>
+						<animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,12)">Conditional</animation>
 												<!-- <animation effect="slide" end="0,-120" time="200" condition="Integer.IsGreater(Container(19001).Position,2)">Conditional</animation>-->
 					</control>
 					<include content="WidgetUpDownArrows">
