@@ -81,7 +81,7 @@
 				<movement>7</movement>
 				<visible>Integer.IsGreater(Container($PARAM[list_id]).NumItems,0) | Container($PARAM[list_id]).IsUpdating</visible>
 				<right>0</right>
-				<height>346</height>
+				<height>466</height>
 				<include content="WidgetVisibilityAnimations">
 					<param name="list_id" value="$PARAM[list_id]"/>
 				</include>
