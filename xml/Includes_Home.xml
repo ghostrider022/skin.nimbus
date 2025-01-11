@@ -89,11 +89,11 @@
 				<include content="WidgetListCommon">
 					<param name="list_id" value="$PARAM[list_id]"/>
 				</include>
-				<itemlayout width="300" height="423" >
+				<itemlayout width="285" height="393" >
 					<control type="group">
 						<left>33</left>
 						<top>15</top>
-						<include content="FlixWidgetMovieLayout">
+						<include content="FlixMovieLayout">
 							<param name="list_id" value="$PARAM[list_id]" />
 						</include>
 					</control>
@@ -103,7 +103,7 @@
 						<depth>DepthContentPopout</depth>
 						<left>33</left>
 						<top>15</top>
-						<include content="FlixWidgetMovieLayout">
+						<include content="FlixMovieLayout">
 							<param name="focused" value="true" />
 							<param name="list_id" value="$PARAM[list_id]" />
 						</include>
