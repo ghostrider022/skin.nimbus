@@ -376,8 +376,8 @@
 				<control type="image">
 					<left>20</left>
 					<top>10</top>
-					<width>201</width>
-					<height>303</height>
+					<width>281</width>
+					<height>423</height>
 					<!-- <top>-19</top>
 					<left>-7</left>
 					<width>290</width>
@@ -396,9 +396,9 @@
 					<left>20</left>
 					<top>11</top>
 					<!-- 236 -->
-					<width>200</width>
+					<width>280</width>
 					<!-- 354 -->
-					<height>300</height>
+					<height>420</height>
 					<texture colordiffuse="artwork_dim" diffuse="masks/poster-widget.png" background="true">$VAR[FlixPosterVar]</texture>
 					<bordersize>1</bordersize>
 					<aspectratio scalediffuse="false">scale</aspectratio>
