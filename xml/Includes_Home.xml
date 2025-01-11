@@ -98,7 +98,7 @@
 						</include>
 					</control>
 				</itemlayout>
-				<focusedlayout width="300" height="423" infoupdate="30">
+				<focusedlayout width="285" height="393" infoupdate="30">
 					<control type="group">
 						<depth>DepthContentPopout</depth>
 						<left>33</left>
